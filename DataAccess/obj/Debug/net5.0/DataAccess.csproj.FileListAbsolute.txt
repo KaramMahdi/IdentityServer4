@@ -1,0 +1,15 @@
+G:\BackEnd\ASP\IdentityServer\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+G:\BackEnd\ASP\IdentityServer\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+G:\BackEnd\ASP\IdentityServer\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+G:\BackEnd\ASP\IdentityServer\DataAccess\bin\Debug\net5.0\DataAccess.dll
+G:\BackEnd\ASP\IdentityServer\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+G:\BackEnd\ASP\IdentityServer\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+G:\BackEnd\ASP\IdentityServer\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+G:\BackEnd\ASP\IdentityServer\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\BackEnd\ASP\IdentityServer\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+G:\BackEnd\ASP\IdentityServer\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+G:\BackEnd\ASP\IdentityServer\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+G:\BackEnd\ASP\IdentityServer\DataAccess\obj\Debug\net5.0\DataAccess.dll
+G:\BackEnd\ASP\IdentityServer\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+G:\BackEnd\ASP\IdentityServer\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+G:\BackEnd\ASP\IdentityServer\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
